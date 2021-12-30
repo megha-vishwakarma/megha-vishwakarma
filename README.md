@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 🤓 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
 - 	😎 I’m currently learning **web devlopment**
+
 <br>
 <br>
 <h3  align="left">Social Skills</h3>
