@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     
 ## Welcome to my GitHub profile 
 
-- 👩 I’m Megha,  Student, Coder
+- 👩 I’m Megha,  Student
 
 - 🤓 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h3  align="left">Social Skills</h3>
+<h3  align="left">Skills-based tech  Platform</h3>
 <a href="https://www.hackerrank.com/vishwakarmamegh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="megha-vishwakarma" height="50" width="50" /></a>
 
 <h3 align="left">Languages</h3>
@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<br>
+
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo.png" alt="js" width="29" height="33"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1459870313PHP-logo.svg.png" alt="php" width="35" height="35"/> </a> 
-<br>
+
 <a href="https://www.java.com" target="_blank"> <img src="https://devstickers.com/assets/img/pro/2p4i.png" alt="java" width="45" height="40"/> </a>
 
 <h3 align="left"> Tools</h3>
