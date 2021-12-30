@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     
 ## Welcome to my GitHub profile 
 
-- 👩 I’m Megha,  Student
+- 👩 I’m Megha
 
 - 🤓 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
