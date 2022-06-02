@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 >Hello Folks <!--👋-->  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px" height="5px">
+<h1 >Hello Folks <!--👋-->  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px" height="15px">
 </h1>
 <h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
     
