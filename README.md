@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h1 >Hello Folks <!--👋-->  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">
 </h1>
+<img src="./rainbow-superthin.gif">
 <h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
     
    
@@ -31,8 +32,6 @@ Here are some ideas to get you started:
 
 <img src="./rainbow-superthin.gif">
 
-<br>
-<br>
 <h3  align="left">Skills-based tech  Platform</h3>
 <a href="https://www.hackerrank.com/vishwakarmamegh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="megha-vishwakarma" height="50" width="50" /></a>
 
@@ -49,7 +48,9 @@ Here are some ideas to get you started:
 
 <h3 align="left"> Tools</h3>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<br><hr>
+
+
+
 <!--img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=megha-vishwakarma&theme=<THEME_NAME>" /-->
 
 <img src="./rainbow-superthin.gif">
