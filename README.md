@@ -39,6 +39,11 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=jolly" alt="github stats" width="48%" align="left" margin-top="140px"/>
+   
+   
+   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30%">
+   
+   
 </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=jolly" width="48%" >
 
