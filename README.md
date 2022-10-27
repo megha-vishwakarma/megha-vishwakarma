@@ -65,14 +65,14 @@
 ### 🤝 Connect with me on
 
 
-[![Discord](https://discord.c99.nl/widget/theme-3/844025480687386695.png)](https://discordapp.com/users/kai_11#4616)
+<a href="https://www.instagram.com/gme_3112/" target="_blank" rel="noopener">
+    <img width="37" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
+</a> 
 
 <a href="https://twitter.com/MeghaVi11199697" target="_blank" rel="noopener">
-    <img width="30" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
+    <img width="37" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
 </a> 
 <a href="https://www.linkedin.com/in/megha-vishwakarma-335a9b1b2/" target="_blank" rel="noopener">
-    <img width="30" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
+    <img width="37" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
 </a> 
-<a href="https://discordapp.com/users/kai_11#4616" target="_blank" rel="noopener">
-    <img width="30" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-64.png" alt="Discord">
-</a> 
+
