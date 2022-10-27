@@ -31,16 +31,19 @@
 <p align="center">
     
 
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%">
+     
   
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=megha-vishwakarma&theme=blue-green)
    
    
-
+  
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+   
+   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
+align="right"  width="35%" height="30%">
 <img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=jolly" alt="github stats" width="48%" align="left" margin-top="140px"/>
    
    
