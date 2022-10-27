@@ -1,39 +1,13 @@
 
 
-<!--
-**megha-vishwakarma/megha-vishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-# Hello Folks <!--👋>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">
--->
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=Hello+folks+!)](https://git.io/typing-svg)
 
-
-
-
-<h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
-    
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=19&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-[//]:## Welcome to my GitHub profile 
+<h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
 
-- 👩 I’m Megha
+- 👩 😄 Pronouns: She/Her
 
 - 🤓 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
@@ -56,6 +30,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+    
+    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashchoudhary11&theme=blue-green)
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<img src="https://github-readme-stats.vercel.app/api?username=
+megha-vishwakarma&show_icons=true&theme=jolly" alt="github stats" width="48%" align="left" margin-top="140px"/>
+
     
     
 <h3 align="left"> Tools</h3>
