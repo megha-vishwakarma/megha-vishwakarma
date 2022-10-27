@@ -63,6 +63,10 @@
 
 <img src="./rainbow-superthin.gif">
 
+
+### My Holopin Badges
+[![@meghav000's Holopin board](https://holopin.me/meghav000)](https://holopin.io/@meghav000)
+
 ### 🤝 Connect with me on
 
 
