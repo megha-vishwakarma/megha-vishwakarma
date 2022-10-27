@@ -6,6 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=19&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 <h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
+ 
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" 
+   width="39%" height="35%">
 
 - 👩 😄 Pronouns: She/Her
 
