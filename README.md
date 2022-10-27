@@ -34,7 +34,8 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
    
 </p>
-<p align="center">
+<p align="center"> 
+   <br><br>
     
 
   
@@ -70,7 +71,7 @@
 </a> 
 
 <a href="mailto:vmegha1231@gmail.com" target="_blank" rel="noopener">
-    <img width="37" src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-64.png" alt="mail">
+    <img width="37" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">
 </a> 
 <a href="https://twitter.com/MeghaVi11199697" target="_blank" rel="noopener">
     <img width="37" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
