@@ -1,11 +1,11 @@
 
-<!--👋-->  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">
+<!--👋-->  <!--img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px"-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=Hello+folks+!)](https://git.io/typing-svg)
 
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=19&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-<h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
+<h3 >I'm Megha Vishwakarma A Student at SPPU</h3>
  
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" 
    width="39%" height="35%">
