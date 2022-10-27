@@ -10,11 +10,11 @@
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" 
    width="39%" height="35%">
 
-- 👩 😄 Pronouns: She/Her
+- 👩  Pronouns: She/Her
 
-- 🤓 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
+- 😄 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
-- 	😎 I’m currently learning **web devlopment**
+- 💻 I’m currently learning **web devlopment** 
 
 <img src="./rainbow-superthin.gif">
 
