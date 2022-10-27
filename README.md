@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello Folks <!--👋-->  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=30&pause=1000&color=1DD4D2&width=435&lines=Hello+there+)](https://git.io/typing-svg)
 <h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
     
    
