@@ -55,11 +55,9 @@
 </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=jolly" width="48%" >
 
-   
-   
-   
+  
 
 <img src="./rainbow-superthin.gif">
 
-
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
