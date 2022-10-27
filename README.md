@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
     
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=25&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=19&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 [//]:## Welcome to my GitHub profile 
 
