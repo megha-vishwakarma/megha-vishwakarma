@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello Folks <!--👋-->  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">
 
-<img src="./rainbow-superthin.gif">
+
 <h3 >I'm Megha Vishwakarma A Student at P E Society's Modern College Business Administration Campus </h3>
     
    
@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=megha-vishwakarma)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megha-vishwakarma&show_icons=true&locale=en&layout=compact" alt="megha-vishwakarma" /></p>
+<br>
+
 <br>
 <img src="./rainbow-superthin.gif">
 
