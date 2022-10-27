@@ -31,8 +31,6 @@
 <p align="center">
     
 
-       <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
-align="right"  width="35%" height="30%">
   
 
 
