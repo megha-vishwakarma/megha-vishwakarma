@@ -67,17 +67,17 @@
 
 
 <a href="https://www.instagram.com/gme_3112/" target="_blank" rel="noopener">
-    <img width="37" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
+    <img width="32" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
 </a> 
 
 <a href="mailto:vmegha1231@gmail.com" target="_blank" rel="noopener">
-    <img width="37" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">
+    <img width="34" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">
 </a> 
 <a href="https://twitter.com/MeghaVi11199697" target="_blank" rel="noopener">
-    <img width="37" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
+    <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
 </a> 
 
 <a href="https://www.linkedin.com/in/megha-vishwakarma-335a9b1b2/" target="_blank" rel="noopener">
-    <img width="37" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
+    <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
 </a> 
 
