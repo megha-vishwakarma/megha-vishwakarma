@@ -46,25 +46,7 @@
    
    
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<img src="https://github-readme-stats.vercel.app/api?username=
-megha-vishwakarma&show_icons=true&theme=jolly" alt="github stats" width="48%" align="left" margin-top="140px"/>
-
-    
- <br>   
-<h3 align="left"> Tools</h3>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-
-
-<!--img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=megha-vishwakarma&theme=<THEME_NAME>" /-->
-
 <img src="./rainbow-superthin.gif">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=megha-vishwakarma)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megha-vishwakarma&show_icons=true&locale=en&layout=compact" alt="megha-vishwakarma" /></p>
-<br>
 
-<br>
-<!--img src="./rainbow-superthin.gif"-->
 
