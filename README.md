@@ -14,7 +14,7 @@
 
 - 😄 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
-- 💻 I’m currently learning **web devlopment** 
+-  I’m currently learning **web devlopment** <img width="40" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
 
 <img src="./rainbow-superthin.gif">
 
@@ -66,7 +66,7 @@
    
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
 
-<br>
+
 <a href="https://www.instagram.com/gme_3112/" target="_blank" rel="noopener">
     <img width="32" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
 </a> 
