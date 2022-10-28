@@ -43,12 +43,12 @@
 
      
 
-<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=outrun" alt="github stats" width="48%" align="left" margin-top="140px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=radical" alt="github stats" width="48%" align="left" margin-top="140px"/>
 
    
    
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=jolly" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=radical" width="48%" >
 
   
 <p align="center">
