@@ -63,9 +63,10 @@
 <p align="center">
 <img src="./rainbow-superthin.gif">
 <p>
-### Connect with me on  <img width="20" src="https://cdn-icons-png.flaticon.com/128/1402/1402121.png" > 
+   
+###Connect with me on  <img width="30" src="https://cdn-icons-png.flaticon.com/128/1402/1402121.png" > 
 
-
+<br>
 <a href="https://www.instagram.com/gme_3112/" target="_blank" rel="noopener">
     <img width="32" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
 </a> 
