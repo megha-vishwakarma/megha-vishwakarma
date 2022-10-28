@@ -56,11 +56,12 @@
 <img src="./rainbow-superthin.gif">
 <p>
    
-   
-   See this Snake Game with my contributions
-![snake gif](https://github.com/megha-vishwakarma&theme/megha-vishwakarma&theme/blob/output/github-contribution-grid-snake.gif)
+  [![Image of https://github.com/megha-vishwakarma/profile-view-counter](https://github.com/megha-vishwakarma/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/megha-vishwakarma/profile-view-counter)
+<br>
 
-  
+See this Snake Game with my contributions
+![snake gif](https://github.com/megha-vishwakarma/megha-vishwakarma&theme/blob/output/github-contribution-grid-snake.gif)
+
    
    
    
