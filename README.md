@@ -43,10 +43,8 @@
 
      
 [![MEgha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-     
-[![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/megha-vishwakarma/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/megha-vishwakarma/profile-view-counter)
 
-    
+
    
    
 </a>
