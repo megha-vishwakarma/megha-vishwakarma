@@ -11,7 +11,7 @@
    width="39%" height="35%">
 
 - 👩  Pronouns: She/Her
-
+- 🔭 I’m currently working on increasing my skillset.
 - 😄 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
 -  I’m currently learning **web devlopment** <img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
@@ -41,19 +41,12 @@
   
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=megha-vishwakarma&theme=blue-green)
-   
-   
-  
+     
+[![MEgha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+     
+[![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/megha-vishwakarma/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/megha-vishwakarma/profile-view-counter)
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-   
- 
- 
-<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=jolly" alt="github stats" width="48%" align="left" margin-top="140px"/>
-   
-   
- 
+    
    
    
 </a>
