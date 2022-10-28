@@ -42,7 +42,7 @@
 
 
      <!-- refer this link for github status:https://github.com/anuraghazra/github-readme-stats -->
-
+[//]: # (refer this link for github status:https://github.com/anuraghazra/github-readme-stats )
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=megha-vishwakarma&theme=blue-green)
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -56,14 +56,7 @@
 <img src="./rainbow-superthin.gif">
 <p>
    
-  [![Image of https://github.com/megha-vishwakarma/profile-view-counter](https://github.com/megha-vishwakarma/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/megha-vishwakarma/profile-view-counter)
-<br>
-
-See this Snake Game with my contributions
-![snake gif](https://github.com/megha-vishwakarma/megha-vishwakarma&theme/blob/output/github-contribution-grid-snake.gif)
-
-   
-   
+ 
    
    <!--Connect -->
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
