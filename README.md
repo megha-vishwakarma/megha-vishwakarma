@@ -39,9 +39,6 @@
     
 
   
-
-
-     <!-- refer this link for github status:https://github.com/anuraghazra/github-readme-stats -->
 [//]: # (refer this link for github status:https://github.com/anuraghazra/github-readme-stats )
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=megha-vishwakarma&theme=blue-green)
