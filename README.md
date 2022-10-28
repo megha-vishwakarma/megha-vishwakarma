@@ -64,7 +64,7 @@
 <img src="./rainbow-superthin.gif">
 <p>
    
-<h1>Connect with me on  <img width="38" src="https://cdn-icons-png.flaticon.com/128/2885/2885417.png" > </h1>
+<h2><img width="38" src="https://cdn-icons-png.flaticon.com/128/2885/2885417.png" > Connect with me on  </h2>
 
 <br>
 <a href="https://www.instagram.com/gme_3112/" target="_blank" rel="noopener">
