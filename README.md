@@ -42,7 +42,7 @@
 
 
      
-[![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=outrun" alt="github stats" width="48%" align="left" margin-top="140px"/>
 
    
