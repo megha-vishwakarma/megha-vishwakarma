@@ -46,7 +46,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=megha-vishwakarma&theme=blue-green)
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=github_dark" alt="github stats" width="48%" align="left" margin-top="140px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=tokyonight" alt="github stats" width="48%" align="left" margin-top="140px"/>
   
 </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=tokyonight" width="48%" >
@@ -56,6 +56,15 @@
 <img src="./rainbow-superthin.gif">
 <p>
    
+   
+   See this Snake Game with my contributions
+![snake gif](https://github.com/megha-vishwakarma&theme/megha-vishwakarma&theme/blob/output/github-contribution-grid-snake.gif)
+
+  
+   
+   
+   
+   <!--Connect -->
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
 
 
