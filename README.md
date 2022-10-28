@@ -43,12 +43,10 @@
 
      <!-- refer this link for github status:https://github.com/anuraghazra/github-readme-stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=rose_pine" alt="github stats" width="48%" align="left" margin-top="140px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=github_dark" alt="github stats" width="48%" align="left" margin-top="140px"/>
 
    
-   
-</a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=rose_pine" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=github_dark" width="48%" >
 
   
 <p align="center">
