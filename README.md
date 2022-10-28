@@ -63,7 +63,7 @@
 <p align="center">
 <img src="./rainbow-superthin.gif">
 <p>
-### <img src="https://cdn-icons-png.flaticon.com/128/1402/1402121.png"> Connect with me on 
+### Connect with me on  <img width="20" src="https://cdn-icons-png.flaticon.com/128/1402/1402121.png" > 
 
 
 <a href="https://www.instagram.com/gme_3112/" target="_blank" rel="noopener">
