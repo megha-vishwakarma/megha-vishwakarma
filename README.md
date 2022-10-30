@@ -43,10 +43,10 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=megha-vishwakarma&theme=blue-green)
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left" margin-top="140px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=tokyonight" alt="github stats" width="49%" align="left" margin-top="140px"/>
   
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=tokyonight" width="50%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=tokyonight" width="49%" >
 
  <p align="center">
 <img src="./rainbow-superthin.gif">
