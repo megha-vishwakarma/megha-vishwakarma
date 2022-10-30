@@ -48,7 +48,11 @@
 </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=tokyonight" width="48%" >
 
-  
+ 
+ 
+ ### My Holopin Badges
+[![@meghav000's Holopin board](https://holopin.me/meghav000)](https://holopin.io/@meghav000)
+ 
 <p align="center">
 <img src="./rainbow-superthin.gif">
 <p>
