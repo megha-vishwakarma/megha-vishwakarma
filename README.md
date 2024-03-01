@@ -7,7 +7,7 @@
 
 <h3 >I'm Mujeeb Khan A Student at SPPU</h3>
  
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtvMzAwdGNqbGUwcTJsYngyMWFqdXFvaGM3ejVia3ljc3B5d2p5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" align="right" 
+ <img src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47ot4hdlxt96l6yly7e66vjgkh0qnppzhdfr1lk1e0&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right" 
    width="39%" height="35%">
 
 - 🧑  Pronouns: he/him
