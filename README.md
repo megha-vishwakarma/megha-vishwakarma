@@ -8,7 +8,7 @@
 <h3 >I'm Mujeeb Khan A Student at SPPU</h3>
  
  <img src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47ot4hdlxt96l6yly7e66vjgkh0qnppzhdfr1lk1e0&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right" 
-   width="39%" height="35%">
+   width="30%" height="30%">
 
 - 🧑  Pronouns: he/him
 - 🔭 I’m currently working on increasing my skillset.
@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript" alt="Javascript">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="sql">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
