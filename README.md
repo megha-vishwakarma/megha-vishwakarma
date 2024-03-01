@@ -7,10 +7,10 @@
 
 <h3 >I'm Mujeeb Khan A Student at SPPU</h3>
  
- <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://github.com/megha-vishwakarma/simple-navigation-bar/blob/main/dev.gif?raw=true)" align="right" 
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://github.com/megha-vishwakarma/simple-navigation-bar/blob/main/dev.gif?raw=true)" align="right" 
    width="39%" height="35%">
 
-- 👩  Pronouns: he/him
+- 🧑  Pronouns: he/him
 - 🔭 I’m currently working on increasing my skillset.
 - 😄 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
