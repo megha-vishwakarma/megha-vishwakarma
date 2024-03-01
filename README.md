@@ -5,16 +5,16 @@
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=19&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-<h3 >I'm Megha Vishwakarma A Student at SPPU</h3>
+<h3 >I'm Mujeeb Khan A Student at SPPU</h3>
  
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" 
+ <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://github.com/megha-vishwakarma/simple-navigation-bar/blob/main/dev.gif?raw=true)" align="right" 
    width="39%" height="35%">
 
-- 👩  Pronouns: She/Her
+- 👩  Pronouns: he/him
 - 🔭 I’m currently working on increasing my skillset.
 - 😄 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
--  I’m currently learning **Data science** and **web devlopment** <img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
+-  I’m currently learning **Artificial intelligence** and **web devlopment** <img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
 
 <img src="./rainbow-superthin.gif">
 
@@ -55,28 +55,24 @@
 <p-->
    
  
- ### My Holopin Badges
-[![@meghav000's Holopin board](https://holopin.me/meghav000)](https://holopin.io/@meghav000)
- 
-
  
    
    <!--Connect -->
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
 
 
-<a href="https://www.instagram.com/gme_3112/" target="_blank" rel="noopener">
+<a href="https://www.instagram.com/username/" target="_blank" rel="noopener">
     <img width="32" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
 </a> 
 
-<a href="mailto:vmegha1231@gmail.com" target="_blank" rel="noopener">
+<a href="mailto:yourEmail@gmail.com" target="_blank" rel="noopener">
     <img width="34" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">
 </a> 
-<a href="https://twitter.com/MeghaVi11199697" target="_blank" rel="noopener">
+<a href="https://twitter.com/id" target="_blank" rel="noopener">
     <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
 </a> 
 
-<a href="https://www.linkedin.com/in/megha-vishwakarma-335a9b1b2/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/mujeeb/" target="_blank" rel="noopener">
     <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
 </a> 
 
